@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mandaltapas0422-glitch.github.io/handbook-8sdu1x/sitemap.xml
